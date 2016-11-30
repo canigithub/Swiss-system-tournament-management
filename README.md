@@ -1,1 +1,1 @@
-# Tournament-management-system
+# Swiss-system Tournament Management
